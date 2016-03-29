@@ -1,0 +1,11 @@
+{
+  "name": "orangutan-demo",
+  "version": "0.1.0",
+  "description": "A tool for cleaning up BibTeX libraries, detecting duplicates, spelling errors and consistency issues",
+  "main": "bibtexParser.js",
+  "dependencies": {
+    "orangutan": "rohdef/orangutan"
+  },
+  "author": "Rohde Fischer <rohdef@rohdef.dk> (http://rohdef.dk/)",
+  "license": "MIT"
+}
